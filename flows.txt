@@ -1,0 +1,65 @@
+Flow name: Test
+Date: Fri Jan 12 18:26:32 2024
+
+TITLE step:
+Title: Acesta e titlul
+Subtitle: Acesta e subtitlul
+TEXT step:
+Title: Acesta e un text_title
+Subtitle: Acesta e un text_subtitle
+TEXT input step:
+description: 
+text input: 
+TEXT input step:
+description: 
+text input: 
+NUMBER input step:
+description: 
+number input: 
+NUMBER input step:
+description: 
+number input: 
+NUMBER input step:
+description: 
+number input: 
+CALCULUS step:
+step1: 
+step2: 
+operation: 
+CALCULUS step:
+step1: 
+step2: 
+operation: 
+CALCULUS step:
+step1: 
+step2: 
+operation: 
+CALCULUS step:
+step1: 
+step2: 
+operation: 
+DISPLAY step:
+DISPLAY step:
+TEXT FILE input step:
+description: 
+file name: 
+TEXT FILE input step:
+description: 
+file name: 
+CSV FILE input step:
+description: 
+file name: 
+CSV FILE input step:
+description: 
+file name: 
+OUTPUT step:
+step: 
+name of file: 
+title: 
+description: 
+End of the flow
+
+Flow name: te
+Date: Sat Jan 13 18:07:32 2024
+
+End of the flow
